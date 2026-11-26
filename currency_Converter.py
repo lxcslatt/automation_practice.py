@@ -27,3 +27,5 @@ def convert_currency(base):
 		return None
 #We call the function and specify what currency we want to be compared.
 convert_currency("GBP")		
+
+#PROGRESS: DEVELOPING 
