@@ -1,7 +1,7 @@
 #Gives access to the request libary 
 import requests
 #This is the url of the api we going to use to give us currency rates and also converting
-BASE_URL = "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_KPVoAYZo154auYBFB1Bt7QzUzY9rMFc29KSOI2UF"
+BASE_URL = "https://api.freecurrencyapi.com/v1/latest?apike_live_"
 
 
 #These are the currencies that our currency is going to be compared with
